@@ -1,5 +1,6 @@
 .cantainer__menu-bar {
     margin-top: 15px;
+    margin-left: 10px;
 }
 
 .cantainer__menu-bar > ul{
@@ -15,6 +16,10 @@
 .cantainer__menu-bar > ul > li > a {
     list-style: none;
     text-decoration: none;
+    color: white;
+}
+
+span {
     color: white;
 }
 
