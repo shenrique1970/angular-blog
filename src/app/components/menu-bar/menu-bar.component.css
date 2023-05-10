@@ -1,0 +1,20 @@
+.cantainer__menu-bar {
+    margin-top: 15px;
+}
+
+.cantainer__menu-bar > ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.cantainer__menu-bar > ul > li {
+    margin-right: 20px;
+    list-style: none;
+}
+
+.cantainer__menu-bar > ul > li > a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
