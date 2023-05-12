@@ -1,5 +1,5 @@
 .container__content {
-    border: solid 1px white;
+   
     width: 100%;
     height: 100%;
 
@@ -25,6 +25,7 @@
 }
 
 .content_descripition > a {
+    margin-top: 20px;
     color: white;
 }
 
