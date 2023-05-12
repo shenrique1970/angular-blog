@@ -13,7 +13,7 @@ export const dataFake = [
     },
     {
         "id": "3",
-        "title":"Serie Arquuivo x a melhor serie",
+        "title":"Serie Arquivo X a melhor serie",
         "description":"ola, curta series antigas",
         "photoCover": "http://localhost:4200/assets/arquivox.jpeg"
     },
